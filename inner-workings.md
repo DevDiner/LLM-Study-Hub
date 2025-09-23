@@ -1,1 +1,1 @@
-//inner-workings of LLMs
+//inner-workings of LLM
