@@ -1,1 +1,13 @@
 //inner-workings of LLM
+
+What is a tensor? 
+A tensor is a mathematical object that generalizes the idea of scalars, vectors, and matrices to higher dimensions.
+Basically its like matrices but it is able to represent multiple higher dimensions.
+Scalar (0-D tensor): Just a single number (e.g., 5).
+
+Vector (1-D tensor): A list of numbers in a single dimension (e.g., [1, 2, 3]).
+
+Matrix (2-D tensor): A table of numbers with rows and columns (e.g.,[[1, 2, 3],
+ [4, 5, 6]] )
+
+ 
