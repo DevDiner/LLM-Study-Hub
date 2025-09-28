@@ -7,7 +7,8 @@ Scalar (0-D tensor): Just a single number (e.g., 5).
 
 Vector (1-D tensor): A list of numbers in a single dimension (e.g., [1, 2, 3]).
 
-Matrix (2-D tensor): A table of numbers with rows and columns (e.g.,[[1, 2, 3],
- [4, 5, 6]] )
+Matrix (2-D tensor): A table of numbers with rows and columns (e.g.,[[1, 2, 3],[4, 5, 6]] )
 
- 
+ Example (3-D Tensor):
+
+Imagine we have 2 grayscale images, each 3×3 pixels:
