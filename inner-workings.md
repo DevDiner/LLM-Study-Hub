@@ -34,9 +34,6 @@ We can represent this as a 3-D tensor of shape (2, 3, 3):
 ]
 
 Here:
-
-First dimension = which image (2 of them).
-
-Second dimension = row of pixels.
-
-Third dimension = column of pixels.
+- First dimension = which image (2 of them).
+- Second dimension = row of pixels.
+- Third dimension = column of pixels.
