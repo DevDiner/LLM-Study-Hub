@@ -37,3 +37,4 @@ Here:
 - First dimension = which image (2 of them).
 - Second dimension = row of pixels.
 - Third dimension = column of pixels.
+  
